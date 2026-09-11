@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the associated manuscript."
+title: "Do autonomous agents improve chest radiograph interpretation? A leakage-audited evaluation"
+type: software
+version: 0.1.0
+date-released: 2026-09-11
+repository-code: "https://github.com/StanleyLiangYork/multi_agent_LLM_COVID19"
+url: "https://github.com/StanleyLiangYork/multi_agent_LLM_COVID19"
+license: MIT
+authors:
+  - family-names: Liang
+    given-names: Zhaohui
+  - family-names: Rajaraman
+    given-names: Sivaramakrishnan
+  - family-names: Marini
+    given-names: Niccolo
+  - family-names: Xue
+    given-names: Zhiyun
+  - family-names: Antani
+    given-names: Sameer
+    email: sameer.antani@nih.gov

@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+
+# Notebook and editor state
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Authentication and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Data, caches, checkpoints, adapters, and generated results
+data/
+datasets/
+cache/
+caches/
+checkpoints/
+adapters/
+outputs/
+results/
+artifacts/
+/stage_A/
+/stage_B/
+/stage_C/
+/stage_D/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.index
+*.faiss
+*.parquet
+*.npz
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.stale-*
